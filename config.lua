@@ -1,6 +1,6 @@
 Config = {}
 
-Config.Webhook = '' -- Images will be uploaded here
+Config.Webhook = 'https://discord.com/api/webhooks/1012044623969013820/_lV0Uu3qL-wUS2rq096h2LolQUSdUKuNUuVale0SYXjY4IJ_Q4_Lo9-YmkX7uvez-Zdo' -- Images will be uploaded here
 Config.TestCommand = true -- Use this when testing /testmugshot
 
 Config.CustomMLO = true -- If you use a MLO use the options below to change the camera location. Otherwise it will use the default IPL for the mugshot location
